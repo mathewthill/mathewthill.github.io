@@ -1,0 +1,15 @@
+{
+   "title" : "Ship Sale",
+   "dateEnd" : 1617807870,
+   "liveArrayData" :
+   [
+     {
+       "id": "1",
+       "discount" : "45"
+     },
+     {
+       "id": "3",
+       "discount" : "20"
+     }
+   ]
+ }
